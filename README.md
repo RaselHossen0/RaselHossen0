@@ -7,7 +7,7 @@
 
 - 🌟 **About Me**: I specialize in building modern, scalable, and user-friendly applications. My expertise spans **Flutter** for mobile app development and **Node.js** and **React.js** for creating full-stack web solutions.
 
-- 👨‍💻 Explore My Projects: [rasel-portfolio.com](https://rasel.starstechgroup.com)
+- 👨‍💻 Explore My Projects: [rasel-portfolio.com]([https://rasel.starstechgroup.com](https://www.upwork.com/services/product/development-it-a-full-stack-web-application-built-with-laravel-and-vue-react-1910981337929851360?ref=project_share&tier=1))
 
 - 🌐 **Skills**: From crafting seamless UIs to building robust backends, I love taking on challenges and turning ideas into impactful applications.
 
